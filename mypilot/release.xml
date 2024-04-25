@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <plugin id="mypilot" url="https://tjlcast.github.io/static-web/mypilot/vscode-chatgpt-plugin-0.1.7.vsix" version="0.1.7">
+    <idea-version since-build="212" until-build="999.*"/>
+    <name>mypilot</name>
+  </plugin>
+</plugins>
