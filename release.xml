@@ -4,5 +4,6 @@
     <idea-version since-build="212" until-build="999.*"/>
     <name>mypilot</name>
     <tabby_endpoint>http://localhost:8080</tabby_endpoint>
+    <chat_endpoint>http://121.40.102.152:9977</chat_endpoint>
   </plugin>
 </plugins>
