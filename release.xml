@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <plugin id="jialtang.vscode-chatgpt-plugin" url="https://tjlcast.github.io/static-web/mypilot/vscode-chatgpt-plugin-0.3.5.vsix" version="0.3.5">
+  <plugin id="jialtang.vscode-chatgpt-plugin" url="https://tjlcast.github.io/static-web/mypilot/vscode-chatgpt-plugin-0.3.6.vsix" version="0.3.6">
     <idea-version since-build="212" until-build="999.*"/>
     <name>mypilot</name>
     <tabby_endpoint>http://localhost:8080</tabby_endpoint>
