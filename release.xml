@@ -6,7 +6,7 @@
     <tabby_endpoint>http://localhost:8080</tabby_endpoint>
     <chat_endpoint>http://121.40.102.152:9966</chat_endpoint>
   </plugin>
-  <plugin id="com.zhongan.devPilot" url="https://plugins.jetbrains.com/plugin/download?rel=true&updateId=553531" version="0.3.8">
+  <plugin id="com.zhongan.devPilot" url="123" version="0.3.8">
         <idea-version since-build="212" until-build="999.*"/>
         <name>devpilot</name>
         <chat_endpoint>http://121.40.102.152:9966</chat_endpoint>
