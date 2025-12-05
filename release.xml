@@ -17,6 +17,7 @@
     <name>mypilot</name>
     <tabby_endpoint>http://localhost:8080</tabby_endpoint>
     <chat_endpoint>http://121.40.102.152:9966</chat_endpoint>
+    <model>qwen-coder</model>
     <marketplace_mcp>https://tjlcast.github.io/static-web/marketplace-mcps.yaml</marketplace_mcp>
   </plugin>
 </plugins>
